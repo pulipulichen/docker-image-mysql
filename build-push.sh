@@ -1,4 +1,4 @@
-TAG=mysql-5.7.15-20220528-1711
+TAG=mysql-5.7.15-20220528-1726
 
 REPO=dlll-paas-base-image
 
